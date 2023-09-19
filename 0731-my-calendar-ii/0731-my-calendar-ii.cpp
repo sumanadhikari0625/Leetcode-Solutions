@@ -1,24 +1,25 @@
 class MyCalendarTwo {
 public:
-map<int, int> mpp;
     MyCalendarTwo() {
         
     }
-    
+    map<int,int>mpp;
     bool book(int start, int end) {
         mpp[start]++;
-        mpp[end]--; int result= 0;
-        for(auto it: mpp){
-            result+= it.second;
-            if(result>2){
+        mpp[end]--;
+        int ans=0;
+        for(auto it:mpp)
+        {
+            ans+=it.second;
+            if(ans>2)
+            {
                 mpp[start]--;
                 mpp[end]++;
                 return false;
             }
         }
-        return  true;
+        return true;
     }
-    
 };
 
 /**
