@@ -1,18 +1,16 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int n= nums.size();
-        int size= nums.size()- count(nums.begin(), nums.end(), val);
-        map<int, int> mpp;
-        for(auto it: nums) ++mpp[it];
-        int j= 0;
-        for(auto it: mpp){
-            if(it.first== val) continue;
+        map<int,int>mpp;int i=0;
+        for(auto it:nums){mpp[it]++;}
+        for(auto it:mpp){
+            if(it.first==val)continue;
             else{
-                int count= it.second;
-                for(int i= 0; i<count; ++i) nums[j++]= it.first;
+                for(int j=0;j<it.second;j++)
+                nums[i++]=it.first;
+
             }
         }
-        return size;
+        return nums.size()-mpp[val];
     }
 };
