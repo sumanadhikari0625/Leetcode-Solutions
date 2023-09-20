@@ -1,24 +1,24 @@
 class MyCalendar {
 public:
-map<int,int>mpp;
     MyCalendar() {
         
     }
-    
+    map<int,int>mpp;
+
     bool book(int start, int end) {
-        mpp[start]++;
-        mpp[end]--;
-        int ans=0;
-        for(auto it:mpp)
-        {
-            ans+= it.second;
-            if(ans>1){
-                mpp[start]--;
-                mpp[end]++;
-                return false;
-            }
+        mpp[start]++;  //check krne ke liye ki book ho skta hai ki ni
+        mpp[end]--; 
+        int sum=0;
+        for(auto it:mpp){
+             sum+=it.second;
+             if(sum>1){
+                 mpp[start]--;
+                 mpp[end]++;
+                 return false;
+             }
         }
         return true;
+
     }
 };
 
