@@ -14,7 +14,7 @@ public:
         {
             nums[i]=v[i];
         }
-        for(auto it:nums) cout<<it<<" ";
+        // for(auto it:nums) cout<<it<<" ";
         int t=v.size();
         for(int i=t;i<n;i++)
         {
