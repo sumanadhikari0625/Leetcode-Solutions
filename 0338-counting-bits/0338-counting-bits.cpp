@@ -5,7 +5,7 @@ public:
       v[0]=0;
       for(int i=1;i<=n;i++)
       {
-        v[i]= v[i/2] + i%2;
+        v[i]= __builtin_popcount(i);
       }
       return v;
     }
