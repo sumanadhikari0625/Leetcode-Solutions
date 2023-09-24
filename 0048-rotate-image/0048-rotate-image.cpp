@@ -15,12 +15,16 @@ public:
         int n=v.size();
         int m=v[0].size();
         transpose(v,n,m);
+        // for(int i=0;i<n;i++)
+        // {
+        //     for(int j=0;j<m/2;++j)
+        //     {
+        //         swap(v[i][j], v[i][m-j-1]);
+        //     }
+        // }
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<m/2;++j)
-            {
-                swap(v[i][j], v[i][m-j-1]);
-            }
+            reverse(v[i].begin(),v[i].end());
         }
     }
 };
