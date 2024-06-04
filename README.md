@@ -14,3 +14,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1748-best-team-with-no-conflicts](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
+# Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0050-powx-n) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0050-powx-n) |
