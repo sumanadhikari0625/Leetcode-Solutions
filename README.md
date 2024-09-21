@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
