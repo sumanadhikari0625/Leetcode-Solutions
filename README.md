@@ -48,9 +48,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0733-flood-fill](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0733-flood-fill) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
