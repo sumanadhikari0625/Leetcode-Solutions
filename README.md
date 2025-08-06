@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
