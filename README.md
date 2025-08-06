@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2727-number-of-senior-citizens](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
