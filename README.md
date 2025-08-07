@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
