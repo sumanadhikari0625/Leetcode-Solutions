@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Array
 |  |
 | ------- |
