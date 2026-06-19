@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1732-find-the-highest-altitude](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
