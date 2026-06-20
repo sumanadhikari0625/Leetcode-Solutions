@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1840-maximum-building-height](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [2502-sort-the-people](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Minimum Spanning Tree
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1732-find-the-highest-altitude](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
