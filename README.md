@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2502-sort-the-people](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Enumeration
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2502-sort-the-people](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sumanadhikari0625/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
